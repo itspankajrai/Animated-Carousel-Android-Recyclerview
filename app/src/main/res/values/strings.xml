@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Animated Carousel</string>
+    <string name="carousel_image">carousel_item</string>
+</resources>
